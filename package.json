@@ -1,21 +1,27 @@
 {
-    "name": "wolverine",
-    "displayName": "Wolverine",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Wolverine",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Wolverine-color-theme.json"
-            }
-        ]
-    }
+	"name": "wolverine",
+	"publisher": "Satyu",
+	"displayName": "Wolverine",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Wolverine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Wolverine-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6d74872d-85f3-41ea-bbdb-066fe42de296",
+		"publisherDisplayName": "Wolverine",
+		"publisherId": "cc6874ba-11cf-49ae-9db4-aa2186c7558f"
+	}
 }
