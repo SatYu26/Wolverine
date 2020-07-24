@@ -20,6 +20,14 @@
 			}
 		]
 	},
+	"bugs": {
+		"url": "https://github.com/SatYu26/Wolverine",
+		"email": "goyalsatyam8@gmail.com"
+	  },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SatYu26/Wolverine"
+	  },
 	"__metadata": {
 		"id": "6d74872d-85f3-41ea-bbdb-066fe42de296",
 		"publisherDisplayName": "Wolverine",
