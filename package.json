@@ -2,7 +2,7 @@
 	"name": "wolverine",
 	"publisher": "Satyu",
 	"displayName": "Wolverine",
-	"description": "",
+	"description": "Night Sky Color theme",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.46.0"
